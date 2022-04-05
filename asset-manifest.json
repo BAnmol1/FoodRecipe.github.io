@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodRecipe.github.io/static/css/main.113f31e2.css",
+    "main.js": "/FoodRecipe.github.io/static/js/main.f36b86eb.js",
+    "index.html": "/FoodRecipe.github.io/index.html",
+    "main.113f31e2.css.map": "/FoodRecipe.github.io/static/css/main.113f31e2.css.map",
+    "main.f36b86eb.js.map": "/FoodRecipe.github.io/static/js/main.f36b86eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.113f31e2.css",
+    "static/js/main.f36b86eb.js"
+  ]
+}
